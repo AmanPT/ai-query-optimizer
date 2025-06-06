@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+openai
+psycopg2-binary
+python-dotenv
+streamlit
+requests
